@@ -1,5 +1,5 @@
-#Git
-git status
-git add .
-git commit -m 'something'
-git push origin master
+#Git <br />
+git status <br />
+git add . <br />
+git commit -m 'something' <br />
+git push origin master <br />
